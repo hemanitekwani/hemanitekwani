@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemani Tekwani</h1>
-<h3 align="center">Passionate Machine Learning and Mobile Developer from India Hello! I'm a dedicated and enthusiastic Machine Learning (ML) and Mobile App developer based in India. With a strong background in Deep Learning and Natural Language Processing (NLP), I'm committed to creating innovative solutions that harness the power of cutting-edge technologies.</h3>
+<h3 align="center"> Hello! I'm a dedicated and enthusiastic Machine Learning (ML) and Mobile App developer from India. With a strong background in Deep Learning and Natural Language Processing (NLP), I'm committed to creating innovative solutions that harness the power of cutting-edge technologies.</h3>
 
 
 <img align ="left"  alt = "coding" width = "400" src = "https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180.gif">
