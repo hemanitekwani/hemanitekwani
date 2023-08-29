@@ -1,10 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Hemani Tekwani</h1>
 <h3 align="center">Passionate Machine Learning and Mobile Developer from India Hello! I'm a dedicated and enthusiastic Machine Learning (ML) and Mobile App developer based in India. With a strong background in Deep Learning and Natural Language Processing (NLP), I'm committed to creating innovative solutions that harness the power of cutting-edge technologies.</h3>
 
-<img align ="left" alt = "code" width = "400" src ="https://tse4.mm.bing.net/th?id=OIP.j9auLwki5u0ZkJUzhgvekAHaFj&pid=Api&P=0&h=180">
 
-
+<img align ="left"  alt = "coding" width = "400" src = "https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanitekwani&label=Profile%20views&color=0e75b6&style=flat" alt="hemanitekwani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanitekwani" alt="hemanitekwani" /></a> </p>
@@ -36,3 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanitekwani&show_icons=true&locale=en&layout=compact" alt="hemanitekwani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanitekwani&" alt="hemanitekwani" /></p>
+
