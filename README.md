@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/ml.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z3b3Z1d3V3bnd1c2V3c2V3c2V3c2V3L2EvVW92eEg4VmY5cUR1L2c5aXB5LmdpZg/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
