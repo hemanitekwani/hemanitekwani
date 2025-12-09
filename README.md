@@ -1,29 +1,30 @@
-<h1 align="center">Hi 👋, I'm Hemani Tekwani</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Hemani+Tekwani;AI+Master's+Student;Python+%7C+ML+%7C+NLP+%7C+CV+%7C+DS" alt="Typing SVG" />
+</div>
 
-<h3 align="center">Master's student in Artificial Intelligence | Passionate about Python, Machine Learning, NLP, Computer Vision & Data Structures</h3>
+<div align="center">
+  <img src="https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180.gif" width="300"/>
+</div>
 
-<img align="left" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180.gif">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanitekwani&layout=compact&show_icons=true&locale=en&hide_border=true&bg_color=0D1117&border_color=0D1117&title_color=6EE7B7&text_color=9CA3AF&icon_color=9CA3AF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanitekwani&theme=dark&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
+</div>
 
-- 🌱 Learning Python mastery  
-- 💬 Ask me about Python, ML, NLP, CV, Data Structures  
-- 📫 Reach me at [hemani.tekwani@iitgn.ac.in](mailto:hemani.tekwani@iitgn.ac.in)  
+### 🔥 Passionate About
+- 🌱 **Advanced Python**
+- 💬 **Python • ML • NLP • CV • Data Structures**
+- 📧 [hemani.tekwani@iitgn.ac.in](mailto:hemani.tekwani@iitgn.ac.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemani-tekwani-206311234" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/hemani29" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.tensorflow.org/img/tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://pytorch.org/assets/branding/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</p>
-
+### ✨ Connect
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanitekwani&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
+  <a href="https://linkedin.com/in/hemani-tekwani-206311234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/hemani29"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,reactnative" />
 </p>
 
 
