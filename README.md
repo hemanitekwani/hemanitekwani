@@ -43,9 +43,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanitekwani&layout=compact&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanitekwani&theme=tokyonight" />
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanitekwani&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=hemanitekwani&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 
 
