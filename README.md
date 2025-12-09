@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&pid=Api&P=0&h=180.gif" width="300"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/ml.gif" width="300"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 ### 🔥 Passionate About
-- 🌱 **Advanced Python**
+- 🔧 **Advanced Python**
 - 💬 **Python • ML • NLP • CV • Data Structures**
 - 📧 [hemani.tekwani@iitgn.ac.in](mailto:hemani.tekwani@iitgn.ac.in)
 
@@ -24,7 +24,11 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,reactnative" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
 </p>
+
 
 
