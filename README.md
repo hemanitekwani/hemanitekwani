@@ -42,13 +42,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Top languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanitekwani&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+
 
 <p align="center">
   <!-- Streak stats -->
