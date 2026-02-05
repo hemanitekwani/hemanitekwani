@@ -6,7 +6,7 @@
 
 ### 🔥 Python | ML | NLP | CV | DS
 
-- 🔧 **Advanced Python**
+- 🔧 **Python**
 - 🤖 **Machine Learning & Deep Learning**
 - 🧠 **Natural Language Processing**
 - 👁️ **Computer Vision**
